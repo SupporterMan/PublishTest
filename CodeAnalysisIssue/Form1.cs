@@ -19,7 +19,7 @@ namespace CodeAnalysisIssue
 
         private void doNothing()
         {
-
+            int a;
         }
     }
 
