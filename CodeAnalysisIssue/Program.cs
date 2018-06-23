@@ -17,7 +17,7 @@ namespace CodeAnalysisIssue
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            //asdasd
+            //asdasd大苏打似的
         }
     }
 }
